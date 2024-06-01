@@ -1,7 +1,8 @@
 # Bash/PowerShell Murder Mystery Koan
 
 This is a series of "koans" with a murdery mystery scenario. writeups and instructions found in [this Google Slides presentation](https://docs.google.com/presentation/d/1ESofmSddEVNPGzGG_DvBIdFouVz2BqKmv6VcpH7n-Uo/edit?usp=sharing)
-A koan is like a series of programming test cases to learn a language.
+
+A koan is a series of programming test cases to learn a coding language. this is the first time ive seen it used in a cybersecurity context, which actually makes me the first person on earth to do something! (crazy right)
 
 > Where's the source code?
 

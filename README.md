@@ -7,4 +7,10 @@ A koan is like a series of programming test cases to learn a language.
 
 yeah... i cant find the original python script I used to create this before I obfuscated it with pyarmor. maybe someone intelligent can decompile it in the near future, or maybe I'll find it laying around in my discord messages somewhere.
 
-HOWEVER. I do have [an incomplete, unobfuscated version](https://github.com/anishgoyal1108/PowerShell-and-Bash-Murder-Mystery-Koan/blob/main/main-incomplete.py) of the script, but its only like 5% of the actual thing.
+Future anish here: I found it!! [Here you go!!](https://github.com/anishgoyal1108/PowerShell-and-Bash-Murder-Mystery-Koan/blob/main/main.py)
+
+## playing on local
+git clone the repo. u need bash and powershell
+
+## playing on remote
+you need to fork [the repl](https://replit.com/@anish1108/PowerShell-and-Bash-Murder-Mystery?v=1) on Replit and run it. note that the pwsh binary on repl is horribly outdated and slow, since it's not actually "supported" by the repl team.

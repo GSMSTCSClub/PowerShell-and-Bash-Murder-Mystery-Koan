@@ -1,0 +1,5 @@
+Murder Weapon:
+
+The murderer hid all the information related to the murder weapon in the password-protected zip file enc.zip. We believe they used the street name of their address as the password for the zip. You will have to extract the contents of the zip file!
+
+Once you have extracted the zip file, we need you to figure out the following using PowerShell: what is the name of the weapon the murderer used?

@@ -1,0 +1,5 @@
+Locked Out:
+
+The murderer locked us out of our Linux server! The password to unlock the server is contained within the file secret, but it looks like gibberish! Can you help us figure it out?
+
+Decrypt and print out the password using PowerShell. Make sure you preserve the casing of the password!

@@ -1,0 +1,2 @@
+Set-Location -Path (Split-Path -Parent $MyInvocation.MyCommand.Definition)
+Get-Content -Path "mystery.log" | Where-Object { $_ -match "ACTIVITY: Last Known Location" } | ForEach-Object { $_ -match "LOG #(\d+)" | Out-Null; $matches[1] }

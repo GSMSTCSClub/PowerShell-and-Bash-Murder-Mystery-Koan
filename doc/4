@@ -1,0 +1,5 @@
+Physical Appearance:
+
+We need to look through for more information on the suspect. Lucky for us, the FBI has a database we can use! Unfortunately, it's filled with a bunch of gibberish. We know there's a file in the database containing the suspect's physical appearance, but searching for it manually would take too long... it's up to you to figure it out.
+
+Using Bash, what is the contents of the file?

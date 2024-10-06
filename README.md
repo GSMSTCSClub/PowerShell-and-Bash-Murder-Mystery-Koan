@@ -54,6 +54,13 @@ If a workshop participant can't run the obfuscated python script or run their co
 - They may have deleted the pyarmor runtime, or the pyarmor runtime is not in the same working directory as the obfuscated python script
 - They might have deleted the template files, which must be named "Main" and then the corresponding file extension (`ps1` for PowerShell and `sh` for Bash)
 - They could have accidentally deleted or renamed any of the directories for the Koan, such as a directory for one of the problems, or the `doc` directory for the READMEs
+  
+## Additional Resources
+
+- [Scripting Cheat Sheet Slides](https://tinyurl.com/ScriptingCheatSheet)
+- [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/)
+- [Bash Scripting Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [TryHackMe Linux Fundamentals](https://tryhackme.com/r/room/linuxfundamentalspart1)
 
 ## Answer Key
 

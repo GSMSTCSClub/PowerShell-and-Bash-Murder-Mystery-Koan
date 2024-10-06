@@ -1,8 +1,8 @@
-Last Known Location
-
-The file mystery.log contains vital information about the murder. 
-
+The file mystery.log contains vital information about the murder.
 The log is formatted as follows, with one log per line:
 "LOG #<LOGNUMBER> DATE: <YYYY-MM-DD> <HH:MM:SS> ACTIVITY: <ACTIVITY> LOCATION: <LOCATION> DETAILS: <DETAILS>"
 
-What is the log number of the log containing the last known location of the murder? The log contains the activity "Last Known Location" followed by the murderer's address in the "LOCATION" field. Make sure to use PowerShell to determine your answer! Only provide the number and nothing else.
+What is the log number of the log containing the last known location of the murder? 
+  
+The log contains the activity "Last Known Location" followed by the murderer's address in the "LOCATION" field.
+Make sure to use PowerShell to determine your answer! Only provide the number and nothing else.

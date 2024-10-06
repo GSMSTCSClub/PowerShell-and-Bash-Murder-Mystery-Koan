@@ -1,17 +1,18 @@
-Records Cleanup:
-
-Oh no! The murderer deleted our investigation records! Without it, we can't work on the case.
-We need your help. Please do the following:
+Oh no! The murderer deleted our investigation records! We need your help. Please do the following:
 1. Change the directory name back to "FBI Records"
 2. They zip bombed our folder. You need to delete all the junk folders.
 3. We need to establish new records for this case ASAP! Create files and folders in "FBI Records" as follows:
-- Suspects
-  - names.txt
-- Evidence
-  - locations.txt
-  - witnesses.txt
-  - murder_weapons.txt
 
-Although this problem only checks whether the appropriate folders/files exist and are properly named, you are still expected to create a script that achieves the specified file structure. Don't cheat by doing it manually because we will check your script!
+FBI Records
+├── Evidence
+│   ├── locations.txt
+│   ├── murder_weapons.txt
+│   └── witnesses.txt
+└── Suspects
+    └── names.txt
 
-NOTE: The contents of the evidence files is left intentionally ambiguous. You are NOT required to fill them with data.
+This problem only checks whether the appropriate folders/files exist and are properly named, but you are still
+expected to run a script that automatically creates the specified file structure. You must use scripting tools
+for this; don't cheat by creating the files and directories manually!
+
+NOTE: The contents of the evidence files are left intentionally ambiguous. You are NOT required to fill them with data.

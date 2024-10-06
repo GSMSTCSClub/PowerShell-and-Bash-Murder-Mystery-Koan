@@ -10,9 +10,10 @@ The Bash/PowerShell Murder Mystery Koan is an engaging series of programming cha
 ### Prerequisites
 
 1. **Clone the Repository**  
-   Start by cloning this repository to your local machine:
+   Start by cloning this repository to your local machine and cd'ing into it:
    ```bash
    git clone https://github.com/GSMSTCSClub/PowerShell-and-Bash-Murder-Mystery-Koan
+   cd PowerShell-and-Bash-Murder-Mystery-Koan
    ```
 
 2. **Obfuscate the Python Script**  
